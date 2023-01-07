@@ -100,7 +100,7 @@ const App = () => {
           <div className="relative z-10 -top-24 md:static md:w-full md:flex-1 md:py-4">
             
             <Routes>
-              <Route exact path="/" element={<Personal />} />
+              <Route exact path="/multi-form-app" element={<Personal />} />
               <Route exact path="/plan" element={<Plan />} />
               <Route exact path="/addons" element={<Addons />} />
               <Route exact path="/finish" element={<Finish />} />

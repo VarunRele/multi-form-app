@@ -146,7 +146,7 @@ const Plan = () => {
         </Link>
 
         <Link
-          className="hidden px-4 py-2 font-medium text-Cool-gray md:block absolute bottom-0 left-0 hover:text-Marine-blue" to="/"
+          className="hidden px-4 py-2 font-medium text-Cool-gray md:block absolute bottom-0 left-0 hover:text-Marine-blue" to="/multi-form-app"
           onClick={() => {setCurPage(1)}}
         >
           Go Back
@@ -155,7 +155,7 @@ const Plan = () => {
       {/* Next Button */}
       <div className="fixed md:hidden flex justify-between items-center w-full bottom-0  bg-white  py-4">
       <Link
-          className="px-4 py-2  font-medium rounded-md  text-Cool-gray  " to="/" onClick={() => {setCurPage(1)}}
+          className="px-4 py-2  font-medium rounded-md  text-Cool-gray  " to="/multi-form-app" onClick={() => {setCurPage(1)}}
         >
           Go Back
         </Link>
