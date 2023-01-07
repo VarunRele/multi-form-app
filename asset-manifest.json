@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/multi-form-app/static/css/main.12c8df71.css",
+    "main.js": "/multi-form-app/static/js/main.accd8b9f.js",
+    "static/media/bg-sidebar-desktop.svg": "/multi-form-app/static/media/bg-sidebar-desktop.20c249cdcec2573c882747718e0c2a17.svg",
+    "static/media/bg-sidebar-mobile.svg": "/multi-form-app/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a9f96479b9c1a.svg",
+    "static/media/icon-advanced.svg": "/multi-form-app/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
+    "static/media/icon-thank-you.svg": "/multi-form-app/static/media/icon-thank-you.b94bc119a366101d1fdf7ae093614d63.svg",
+    "index.html": "/multi-form-app/index.html",
+    "static/media/icon-pro.svg": "/multi-form-app/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
+    "static/media/icon-arcade.svg": "/multi-form-app/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
+    "main.12c8df71.css.map": "/multi-form-app/static/css/main.12c8df71.css.map",
+    "main.accd8b9f.js.map": "/multi-form-app/static/js/main.accd8b9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12c8df71.css",
+    "static/js/main.accd8b9f.js"
+  ]
+}
